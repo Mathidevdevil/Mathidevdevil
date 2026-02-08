@@ -1,13 +1,10 @@
 # Hi 👋 I'm Mathiyarasu (Mathi)
 
-🎓 Final Year Student | 💻 Full Stack Developer  
-📍 Bangalore, India  
-
----
+💻 Entry level Software Developer 
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Web & Full Stack Projects**
-- 🌱 Learning **React, Node.js & Java**
+- 🌱 Learning **React, & Java and also ML**
 - 👯 Looking for **Internship / Fresher Job Opportunities**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathiyarasu2001/)
 

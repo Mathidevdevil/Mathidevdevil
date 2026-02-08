@@ -11,11 +11,15 @@
 ---
 
 ## 🛠️ Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mongodb,github, machine learning, python, mysql" />
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,mongodb,vscode,eclipse,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-AI-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D00?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-Design-blueviolet?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mathidevii&show_icons=true&theme=tokyonight)

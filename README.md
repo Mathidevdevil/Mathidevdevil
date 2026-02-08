@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mathiyarasu (Mathi)
+# Hi 👋 I'm Mathi
 
 💻 Entry level Software Developer 
 
